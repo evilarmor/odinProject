@@ -1,0 +1,11 @@
+this is a file
+
+git status
+
+git add
+
+git commit -m ""
+
+git pull
+
+git push origin main
